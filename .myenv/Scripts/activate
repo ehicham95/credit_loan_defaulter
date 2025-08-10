@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="E:\Analysis\Projects\credit_loan_defaulter\.myenv"
+VIRTUAL_ENV="C:\Users\ehich\Documents\Data Analysis projects\credit_loan_defaulter\.myenv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"

@@ -1,6 +1,6 @@
 {
   "name": "catboost-widget",
-  "version": "1.2.7",
+  "version": "1.2.8",
   "description": "CatBoost widget for plots in Jupyter",
   "main": "src/index.js",
   "files": [
@@ -38,7 +38,7 @@
       }
     },
     "_build": {
-      "load": "static\\remoteEntry.e156f140be4f3686c3d9.js",
+      "load": "static\\remoteEntry.29e29269f09bf6933a87.js",
       "extension": "./extension"
     }
   }

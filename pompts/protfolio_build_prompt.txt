@@ -1,0 +1,59 @@
+# Project Presentation Enhancement Prompt
+
+**Instructions:** Use this prompt to transform your existing project presentation into a business-focused format that demonstrates problem-solving skills.
+
+---
+
+## Prompt Template:
+
+"I have a data analysis project that I want to enhance for my portfolio. Here is my current project description:
+
+[PASTE YOUR CURRENT PROJECT DESCRIPTION HERE]
+
+Please help me rewrite this project presentation using the following improved structure. For each new section, provide specific, realistic content based on the findings I mentioned:
+
+**Existing Sections to Keep:**
+- Problem Statement
+- Data Sources  
+- Methodology
+- Results
+- Challenges
+- Learnings
+- Visualizations
+
+**New Sections to Add:**
+
+**Root Cause Analysis:**
+- Investigate and explain WHY the key findings occurred
+- Look for underlying patterns, correlations, or business factors
+- Connect data insights to real-world business scenarios
+
+**Business Recommendations:**
+- Provide 3-5 specific, actionable recommendations based on the findings
+- Each recommendation should be concrete and implementable
+- Focus on how the business should change operations, strategy, or processes
+- Use bullet points with clear action items
+
+**Estimated Business Impact:**
+- Quantify the potential value of implementing recommendations
+- Estimate revenue increases, cost savings, or efficiency improvements
+- Use realistic percentages and dollar amounts based on the data scale
+- Show ROI or business value calculation where possible
+
+**Requirements:**
+- Keep the technical content but frame it in business context
+- Make recommendations specific to the industry/domain of the dataset
+- Ensure all suggestions are realistic and actionable
+- Quantify impact with reasonable estimates based on the findings
+- Maintain the same professional tone throughout
+
+Please rewrite my project presentation following this enhanced structure."
+
+---
+
+## Usage Instructions:
+1. Copy the prompt template above
+2. Replace "[PASTE YOUR CURRENT PROJECT DESCRIPTION HERE]" with your actual project content
+3. Paste the complete prompt into ChatGPT, Claude, or your preferred AI assistant
+4. Review and customize the generated recommendations to match your specific project context
+5. Adjust any numbers or estimates to be realistic for your dataset size and industry

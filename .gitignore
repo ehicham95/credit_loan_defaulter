@@ -112,6 +112,8 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+.myenv
+.vscode/
 
 # Spyder project settings
 .spyderproject
@@ -138,6 +140,6 @@ dmypy.json
 cython_debug/
 
 # Dataset
-/dataset/
+# /dataset/
 
 # End of https://mrkandreev.name/snippets/gitignore-generator/#Python
