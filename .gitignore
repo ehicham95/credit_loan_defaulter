@@ -112,8 +112,8 @@ venv/
 ENV/
 env.bak/
 venv.bak/
-.myenv
-.vscode
+.myenv/
+.vscode/
 
 prompts
 portfolio_presentation.html
