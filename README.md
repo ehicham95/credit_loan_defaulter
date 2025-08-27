@@ -6,7 +6,6 @@
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-1.0%2B-orange?logo=scikit-learn&logoColor=white)](https://scikit-learn.org)
 [![XGBoost](https://img.shields.io/badge/XGBoost-Latest-red?logo=xgboost&logoColor=white)](https://xgboost.readthedocs.io)
 [![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow?logo=powerbi&logoColor=white)](https://powerbi.microsoft.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live%20Demo-success?logo=html5&logoColor=white)](portfolio_presentation.html)
 
 ## 🎯 Why This Project Matters to Me
 
@@ -210,8 +209,8 @@ One of my biggest challenges was balancing precision and recall. Here's what I d
 
 **Proposed solution:** Start by affecting customers to their cluster and then apply the treshold depending on which segment they belong:
    - **Low risk segment**: keep the model as it is
-   - **Medium risk segment**: apply 1.5 threshold
-   - **High risk segment**: apply high threshold (<2)
+   - **Medium risk segment**: apply 0.23 threshold
+   - **High risk segment**: apply 0.1 threshold
 
 ## 📈 Business Impact & Real-World Applications
 
